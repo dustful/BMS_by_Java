@@ -1,4 +1,4 @@
-# Java_BMS
+# BMS by Java
 Welcome!
 
 This is a book management system for bookstore that based on Java.
